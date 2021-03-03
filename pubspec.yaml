@@ -1,13 +1,13 @@
 name: gradient_input_border
 description: Gradient outline input border
-version: 1.0.0
+version: 2.0.0
 authors:
   - Wojciech Warwas <wojciech.warwas@iteo.com>
   - Mariusz Wojtach <mariusz.wojtach@iteo.com>
 homepage: https://github.com/iteo/flutter-gradient-input-border
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: '>=2.12.0 <3.0.0'
 
 dependencies:
   flutter:
